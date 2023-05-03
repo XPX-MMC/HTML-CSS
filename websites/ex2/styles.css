@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: white;
+}
+
+main{
+  background-color: lightgray;
+  padding: 20px;  
+}
+
+form{
+    align-content: center;
+}
+
+input{
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    margin: 10px;
+}
+
+.form{
+   display: flex;
+	justify-content:center;
+	align-items: center; 
+}
+
+button{
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: #0072e1
+}
+
+footer {
+    background-color: gray;
+    color: white;
+}
+
+.copyright{
+    display: flex;
+	justify-content:center;
+	align-items: center;
+}
