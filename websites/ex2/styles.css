@@ -1,54 +1,53 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
+body {
+	font-family: Arial, Helvetica, sans-serif;
 }
 
-header{
-    background-color: white;
+header {
+	background-color: white;
 }
 
-main{
-  background-color: lightgray;
-  padding: 20px;  
+main {
+	background-color: lightgray;
+	padding: 20px;
 }
 
-form{
-    align-content: center;
+form {
+	align-content: center;
 }
 
-input{
-    border-radius: 5px;
-    width: 150px;
-    height: 30px;
-    padding-left: 5px;
-    margin: 10px;
+input {
+	border-radius: 5px;
+	width: 150px;
+	height: 30px;
+	padding-left: 5px;
+	margin: 10px;
 }
 
-.form{
-   display: flex;
-	justify-content:center;
-	align-items: center; 
-    padding-bottom: 50px;
+.form {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 50px;
 }
 
-button{
-    padding: 12px 10px 15px 10px;
-    border-radius: 5px;
-    color: white;
-    background-color: #0072e1;
-    margin-left: 85px;
-    
+button {
+	padding: 12px 10px 15px 10px;
+	border-radius: 5px;
+	color: white;
+	background-color: #0072e1;
+	margin-left: 85px;
 }
 
 footer {
-    background-color: gray;
-    color: white;
-    height: 100vh;
+	background-color: gray;
+	color: white;
+	height: 100vh;
 }
 
-.copyright{
-    display: flex;
-	justify-content:center;
+.copyright {
+	display: flex;
+	justify-content: center;
 	align-items: center;
-    padding: 10px;
-    font-weight:bold;
+	padding: 10px;
+	font-weight: bold;
 }
