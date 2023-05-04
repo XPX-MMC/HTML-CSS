@@ -5,26 +5,43 @@ body{
 header{
     background-color: white;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 2px solid black;
 }
 
 main{
-    background-color: gray;
+    background-color: lightgray;
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
 }
 
 .welcome{
     background-color: white;
     border-radius: 20px;
-    display: flex;
-    align-content: center;
+
+    display:flex;
+    flex-direction: column;
+	justify-content: center;
+	align-items: center;
 
     width: 40vw;
-    height: 30vh;
+    height: 20vh;
     margin: 10%;
+
+    font-weight: bold;
+    font-size: large;
 }
 
 footer{
     background-color: #0072e1;
-    display: flex;
     color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    height: 12vh;
+    padding: 2px;
 }
