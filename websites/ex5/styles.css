@@ -28,7 +28,6 @@ main {
 	justify-content: center;
 	align-items: start;
 	width: 80vw;
-	height: 30vh;
 	margin: 1%;
 
 	font-size: large;
@@ -41,7 +40,6 @@ main {
 	justify-content: center;
 	align-items: center;
 	width: 80vw;
-	height: 30vh;
 	margin: 1%;
 
 }
